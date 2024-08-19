@@ -41,7 +41,7 @@ Contributions are welcome! Please fork the repository and submit pull requests w
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Authors
-- Your Name - *SHETHALA BOGGARAPU*
+- *SHETHALA BOGGARAPU*
 
 ## Acknowledgments
 - Inspiration
